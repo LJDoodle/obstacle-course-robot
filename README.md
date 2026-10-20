@@ -1,2 +1,3 @@
 # MEE426 Final Project: Obstacle Course Robot
-A wheeled robot that can do wall following, obstacle avoidance, and stop on a line taped on the ground.
+
+This repository contains the code to my final project for Northern Illinois University's MEE 426: Mechatronics System Design course. My team and I designed a wheeled mobile robot capable of autonomous wall following, obstacle avoidance, and line detection, in order to navigate a three-part obstacle course.
